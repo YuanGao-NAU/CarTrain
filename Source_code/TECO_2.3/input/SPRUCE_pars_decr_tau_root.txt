@@ -1,0 +1,20 @@
+latitude	longitude	wsmax	wsmin				
+47.5	-93.45	85.3	0.2				
+LAIMAX	LAIMIN	rdepth	Rootmax	Stemmax			
+8.0	0.3	150	500	1000			
+SapR	SapS	SLA	GLmax	GRmax	Gsmax	stom_n	
+1	0.5	30.3	10.56	21.71	27.03	2	
+a1	Ds0	Vcmx0	extkU	xfang	alpha		
+8	2000	41.38	0.51	0	0.385		
+Tau_Leaf	Tau_Wood	Tau_Root	Tau_F	Tau_C	Tau_Micro	Tau_SlowSOM	Tau_Passive
+1.2	800.1	0.83958	0.2784	15.4561	0.48	500.0	1560.0
+gddonset	Q10	   Rl0	Rs0	Rr0			
+157.85	2.74	    13.03	6.32	34.88			
+r_me	Q10pro	kCH4	 Omax	CH4_thre	Tveg	Tpro_me	Toxi
+0.2	3.	5.	24.7290	1400.0	1.7	10.  	10.
+f   bubprob     Vmaxfraction    
+0.3 0.22         0.1       
+Q10rh   JV  Entrpy
+2.      1.67    650.0
+shcap_snow	condu_snow	condu_b	albedo_snow	fa	fsub	rho_snow	decay_m	depth_ex
+1000000	0.1	0.08	0.7	1.	0.1	80	2.2192	0.05  

@@ -1,0 +1,25 @@
+&control_pm
+  is_grass = False
+  first_year = 2011
+  use_plinit = 0 		!0 defalt initial 8 pool sizes for the SPRUCE site, 100 defalt for SEV site
+  do_soilphy = True		!use_soil_temperature_subroutine
+  do_snow = True		!use_snow_subroutine
+  do_EBG = True   		!use_EBG_methane_bubble_method
+  do_methane_fcast = False	!do forecasting using the parameter sets from ch4 data assimilatio
+  do_co2_fcast = False          !do forecasting using the parameter sets from carbon cycle data assimilation
+  do_co2_da = True             !do data assimilation with carbon flux/pool obs data
+  do_methane_da = False         !do data assimilation with ch4 flux/pool obs data
+  do_soilwater_da = False	!do data assimilation with soil water related obs data
+  do_soilt_da = False		!do data assimilation with soil temperature/thaw depth related obs data
+  do_snow_da = False		!do data assimilation with snow depth related obs data
+  do_watertable_da = False	!do data assimilation with water table depth related obs data
+  use_cflux_ob =      0 	!use cflux.txt file as observation input when doing DA
+  use_cpool_ob =      0         !use cpool.txt file as observation input when doing DA
+  use_ch4flux_ob =    0   	!use ch4flux.txt file as observation input when doing DA
+  use_ch4conc_ob =    0		!use ch4conc.txt file as observation input when doing DA
+  use_soilwater_ob =  0		!use soilwater.txt file as observation input when doing DA
+  use_soilt_ob =      0		!use soilt.txt file as observation input when doing DA
+  use_snow_ob =       0		!use snow.txt file as observation input when doing DA
+  use_watertable_ob = 0		!use watertable.txt file as observation input when DA
+  use_td_ob =         0		!!use td.txt file as observation input when doing DA   td:thaw depth
+&end

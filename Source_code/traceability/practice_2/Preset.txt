@@ -1,0 +1,3 @@
+scenario,file_path,start_year,end_year,file_res,temporal_resoluation
+CRUNCEP,./Source_code/traceability/practice_2/input/,21,30,yearly,yearly
+GSWP,./Source_code/traceability/practice_2/input/,21,30,yearly,yearly

@@ -1,0 +1,3 @@
+ninput=1 ! 1 -- ambient inversion, 2 -- elevated inversion
+paramRange=./input/newParamRange.txt ! In the first practice, use './input/ParamRange.txt' file. Then in the second practice, change to './input/newParamRange.txt' file
+outDir=F:\OneDrive\Lab\Training2020\Unit6\Practice_U6\Code\output ! the directory to save DA outputs (e.g. all accepted parameter values)

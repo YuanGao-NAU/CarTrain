@@ -1,0 +1,11 @@
+1. namelist file path&name
+2. parameter file path&name
+3. DA parameter file path&name
+4. forcing file path&name
+5. output folder
+6. cflux data path&name
+7. cpool data path&name
+8. CH4 data path&name
+9. Temperature treatment
+10. CO2 treatment
+11. forecasting pars sets
